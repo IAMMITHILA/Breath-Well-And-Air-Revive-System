@@ -1,6 +1,7 @@
 # Breath well & Air Revive System
-**Breath well & Air Revive System** is basically a conceptual project. In 20th century everything is digitalging in every field, So in furure our cities will have more advantage system and technology and also smart solution for every problem. 
+**Breath Well & Air Revive System** is a conceptual project. In today's world every field is becoming increasingly digitalized. In the future, cities will be equipped with more advanced technologies, smart systems and innovative solutions to solve everyday challenges.
 
-In 19 October, 2024 RoboTech Vally Organized a Olympiad, which name was **4th International Robo Tech olympiad which theme was Smart cities** so in this olympaid me and my team **Bu Binary Eidth** participted in **Idea Presentation** where we present this concept. A concept which will work to purify the air of the city with a smart solution.
+On **19 October 2024** **RoboTech Valley** organized the **4th International RoboTech Olympiad** where the competition theme was **Smart Cities**. In this Olympiad me & my team **BU Binary Eidth** participated in the **Idea Presentation** category and presented the **Breath Well & Air Revive System** as a concept designed to purify city air through a smart and sustainable solution.
 
-At that event we also achevive 2nd Runenner Up position in that olympaid.
+Also at the event, our team achieved the **2nd Runner-Up** position in the Idea Presentation category.
+
