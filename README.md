@@ -19,32 +19,33 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
 ## Features:
 
-### Air Purification:
+### 1. Air Purification:
 
-**Advanced Filtration:** Uses HEPA, activated carbon, and electrostatic filters.
-**Pollution Capture:** Targets air from high-traffic and industrial zones.
+**Advanced Filtration:** Uses HEPA, activated carbon and electrostatic filters.
 
-### Temperature Control:
+**Pollution Capture:** Targets air from high traffic and industrial zones.
 
-**Smart Cooling:** Energy-efficient HVAC with adaptive regulation.
+### 2. Temperature Control:
+
+**Smart Cooling:** Energy efficient HVAC with adaptive regulation.
 
 **Climate Control:** Maintains optimal temperatures for comfort.
 
-### Air Condition Monitoring:
+### 3. Air Condition Monitoring:
 
-**IoT Sensors:** Monitors air quality, temperature, and humidity in real-time.
+**IoT Sensors:** Monitors air quality, temperature and humidity in real-time.
 
 **Smartphone App:** Allows real-time tracking and alerts.
 
 **Automated Responses:** Adjusts settings based on air quality data.
 
-### Waste Management Integration:
+### 4. Waste Management Integration:
 
 **Toxic Material Collection:** Gathers harmful substances.
 
 **Waste-to-Energy:** Converts waste into usable energy.
 
-### Solar Power Integration:
+### 5. Solar Power Integration:
 
 **Solar Panels:** Powers the system with renewable energy.
 
