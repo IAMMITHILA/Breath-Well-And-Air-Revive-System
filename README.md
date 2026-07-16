@@ -61,11 +61,13 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
 The system captures polluted air from **high-traffic and industrial areas** and directs it through a **multi-stage filtration system** to remove harmful pollutants.
 
-**Electrostatic Filter:** This is the first stage of **purification**. It **electrically charges dust, smoke, and other fine particles**, causing them to stick to **oppositely charged collection plates**, where they are removed from the airflow.
+**i. Electrostatic Filter:** This is the first stage of **purification**. It **electrically charges dust, smoke, and other fine particles**, causing them to stick to **oppositely charged collection plates**, where they are removed from the airflow.
 
-**Activated Carbon Filter:** The partially purified air then passes through the **activated carbon filter, which absorbs harmful gases, volatile organic compounds (VOCs), and unpleasant odors**, improving the overall air quality.
 
-**HEPA Filter:** In the final stage, the air passes through the **HEPA filter**, which **captures extremely fine airborne particles** such as **PM2.5, pollen, dust, and other microscopic pollutants**. This ensures that the released air is significantly cleaner and safer to breathe.
+**ii. Activated Carbon Filter:** The partially purified air then passes through the **activated carbon filter, which absorbs harmful gases, volatile organic compounds (VOCs), and unpleasant odors**, improving the overall air quality.
+
+
+**iii. HEPA Filter:** In the final stage, the air passes through the **HEPA filter**, which **captures extremely fine airborne particles** such as **PM2.5, pollen, dust, and other microscopic pollutants**. This ensures that the released air is significantly cleaner and safer to breathe.
 
 
 ### Step 2: Temperature Control
