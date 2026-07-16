@@ -52,6 +52,6 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 **Energy Storage:** Ensures continuous operation through stored solar energy
 
 
-## Working Mechanism:
+## How does it works:
 
 ![image alt](https://github.com/IAMMITHILA/Breath-Well-And-Air-Revive-System/blob/d6fe3a2cf4644ce756a9bd0331b8b60264176783/Project%20Woking%20Mechanism%20Picture.jpg)
