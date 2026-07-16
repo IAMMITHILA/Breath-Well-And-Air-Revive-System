@@ -15,7 +15,7 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
 ## Project Overview & Features
 
-The **Breath Well and Air Revive System is an advanced outdoor device designed to absorb polluted air, purify it using state-of-the-art filtration techniques, control temperature, and integrate with a comprehensive Air Condition Monitoring System. Positioned on electric posts, lamp posts, and high towers, and powered by solar energy, it offers a sustainable solution for enhancing air quality and comfort in smart cities.
+The **Breath Well and Air Revive System** is an C6**advanced outdoor device** designed to **absorb polluted air, purify it using state-of-the-art filtration techniques, control temperature, and integrate with a comprehensive Air Condition Monitoring System**. Positioned on electric posts, lamp posts, and high towers, and powered by solar energy, it offers a sustainable solution for enhancing air quality and comfort in smart cities.
 
 Air Purification:
 
