@@ -7,7 +7,7 @@ Also at the event, our team achieved the **2nd Runner-Up** position in the Idea 
 
 Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
-## Team Members
+## Team Members:
 
 1. Md. Salman Khan
 2. Mst. Fatematuzzohura Sathi ; https://github.com/FatematuzzohuraSathi
@@ -21,35 +21,31 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
 ### Air Purification:
 
-Advanced Filtration: Uses HEPA, activated carbon, and electrostatic filters.
-
-### Pollution Capture: 
-Targets air from high-traffic and industrial zones.
+**Advanced Filtration:** Uses HEPA, activated carbon, and electrostatic filters.
+**Pollution Capture:** Targets air from high-traffic and industrial zones.
 
 ### Temperature Control:
 
-Smart Cooling: Energy-efficient HVAC with adaptive regulation.
+**Smart Cooling:** Energy-efficient HVAC with adaptive regulation.
 
-Climate Control: Maintains optimal temperatures for comfort.
+**Climate Control:** Maintains optimal temperatures for comfort.
 
-Air Condition Monitoring:
+### Air Condition Monitoring:
 
-IoT Sensors: Monitors air quality, temperature, and humidity in real-time.
+**IoT Sensors:** Monitors air quality, temperature, and humidity in real-time.
 
-Smartphone App: Allows real-time tracking and alerts.
+**Smartphone App:** Allows real-time tracking and alerts.
 
-Automated Responses: Adjusts settings based on air quality data.
+**Automated Responses:** Adjusts settings based on air quality data.
 
-Waste Management Integration:
+### Waste Management Integration:
 
-Toxic Material Collection: Gathers harmful substances.
+**Toxic Material Collection:** Gathers harmful substances.
 
-Waste-to-Energy: Converts waste into usable energy.
+**Waste-to-Energy:** Converts waste into usable energy.
 
-Solar Power Integration:
+### Solar Power Integration:
 
-Solar Panels: Powers the system with renewable energy.
+**Solar Panels:** Powers the system with renewable energy.
 
-Energy Storage: Ensures continuous operation through stored solar energy
-
-
+**Energy Storage:** Ensures continuous operation through stored solar energy
