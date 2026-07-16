@@ -57,7 +57,7 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 ![image alt](https://github.com/IAMMITHILA/Breath-Well-And-Air-Revive-System/blob/d6fe3a2cf4644ce756a9bd0331b8b60264176783/Project%20Woking%20Mechanism%20Picture.jpg)
 
 
-## Step 1: Air Purification
+### Step 1: Air Purification
 
 The system captures polluted air from **high-traffic and industrial areas** and directs it through a **multi-stage filtration system** to remove harmful pollutants.
 
@@ -68,15 +68,15 @@ The system captures polluted air from **high-traffic and industrial areas** and 
 **HEPA Filter:** In the final stage, the air passes through the **HEPA filter**, which **captures extremely fine airborne particles** such as **PM2.5, pollen, dust, and other microscopic pollutants**. This ensures that the released air is significantly cleaner and safer to breathe.
 
 
-## Step 2: Temperature Control
+### Step 2: Temperature Control
 
 After purification, the clean air passes through the **Smart Cooling System**, which uses **energy-efficient HVAC with adaptive regulation**. The system maintains an optimal temperature to provide a more comfortable environment before the purified air is released.
 
-## Step 3: Air Condition Monitoring
+### Step 3: Air Condition Monitoring
 
 The system continuously monitors **air quality, temperature, and humidity** using **IoT sensors**. The collected data is displayed through a **smartphone application**, allowing users to monitor conditions in real time. Based on the monitored data, the system **automatically adjusts its settings** to maintain efficient operation.
 
-## Step 4: Waste Management Integration
+### Step 4: Waste Management Integration
 
 The harmful substances captured during the purification process are **collected** by the system. These collected materials are then processed through a **waste-to-energy system**, where they are converted into **usable energy**.
 
