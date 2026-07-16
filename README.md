@@ -7,7 +7,7 @@ Also at the event, our team achieved the **2nd Runner-Up** position in the Idea 
 
 Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 
-<p><strong><font size="15">Team Members</font></strong></p>
+## Team Members
 
 1. Md. Salman Khan
 2. Mst. Fatematuzzohura Sathi ; https://github.com/FatematuzzohuraSathi
