@@ -5,3 +5,8 @@ On **19 October 2024** **RoboTech Valley** organized the **4th International Rob
 
 Also at the event, our team achieved the **2nd Runner-Up** position in the Idea Presentation category.
 
+
+## Project Overview & Working Macanism
+
+
+
