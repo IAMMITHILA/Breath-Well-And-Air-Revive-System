@@ -52,34 +52,34 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 **Energy Storage:** Ensures continuous operation through stored solar energy
 
 
-## How does it works:
+## How Does It Works:
 
 ![image alt](https://github.com/IAMMITHILA/Breath-Well-And-Air-Revive-System/blob/d6fe3a2cf4644ce756a9bd0331b8b60264176783/Project%20Woking%20Mechanism%20Picture.jpg)
 
 
-### Step 1: Air Purification
+## Step 1: Air Purification
 
-The system captures polluted air from high-traffic and industrial areas and directs it through a multi-stage filtration system to remove harmful pollutants.
+The system captures polluted air from **high-traffic and industrial areas** and directs it through a **multi-stage filtration system** to remove harmful pollutants.
 
-**Electrostatic Filter:** This is the first stage of purification. It electrically charges dust, smoke, and other fine particles, causing them to stick to oppositely charged collection plates, where they are removed from the airflow.
+**Electrostatic Filter:** This is the first stage of **purification**. It **electrically charges dust, smoke, and other fine particles**, causing them to stick to **oppositely charged collection plates**, where they are removed from the airflow.
 
-**Activated Carbon Filter:** The partially purified air then passes through the activated carbon filter, which absorbs harmful gases, volatile organic compounds (VOCs), and unpleasant odors, improving the overall air quality.
+**Activated Carbon Filter:** The partially purified air then passes through the **activated carbon filter, which absorbs harmful gases, volatile organic compounds (VOCs), and unpleasant odors**, improving the overall air quality.
 
-**HEPA Filter:** In the final stage, the air passes through the HEPA filter, which captures extremely fine airborne particles such as PM2.5, pollen, dust, and other microscopic pollutants. This ensures that the released air is significantly cleaner and safer to breathe.
+**HEPA Filter:** In the final stage, the air passes through the **HEPA filter**, which **captures extremely fine airborne particles** such as **PM2.5, pollen, dust, and other microscopic pollutants**. This ensures that the released air is significantly cleaner and safer to breathe.
 
 
-### Step 2: Temperature Control
+## Step 2: Temperature Control
 
-After purification, the clean air passes through the Smart Cooling System, which uses energy-efficient HVAC with adaptive regulation. The system maintains an optimal temperature to provide a more comfortable environment before the purified air is released.
+After purification, the clean air passes through the **Smart Cooling System**, which uses **energy-efficient HVAC with adaptive regulation**. The system maintains an optimal temperature to provide a more comfortable environment before the purified air is released.
 
-### Step 3: Air Condition Monitoring
+## Step 3: Air Condition Monitoring
 
-The system continuously monitors air quality, temperature, and humidity using IoT sensors. The collected data is displayed through a smartphone application, allowing users to monitor conditions in real time. Based on the monitored data, the system automatically adjusts its settings to maintain efficient operation.
+The system continuously monitors **air quality, temperature, and humidity** using **IoT sensors**. The collected data is displayed through a **smartphone application**, allowing users to monitor conditions in real time. Based on the monitored data, the system **automatically adjusts its settings** to maintain efficient operation.
 
-### Step 4: Waste Management Integration
+## Step 4: Waste Management Integration
 
-The harmful substances captured during the purification process are collected by the system. These collected materials are then processed through a waste-to-energy system, where they are converted into usable energy.
+The harmful substances captured during the purification process are **collected** by the system. These collected materials are then processed through a **waste-to-energy system**, where they are converted into **usable energy**.
 
-### Step 5: Solar Power Integration
+## Step 5: Solar Power Integration
 
-The system is powered by solar panels, providing a renewable source of energy. Excess energy generated during the day is stored in the energy storage system, ensuring continuous operation even when sunlight is unavailable.
+The system is powered by **solar panels**, providing a **renewable source of energy**. Excess energy generated during the day is stored in the **energy storage system**, ensuring continuous operation even when sunlight is unavailable.
