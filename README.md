@@ -5,6 +5,13 @@ On **19 October 2024** **RoboTech Valley** organized the **4th International Rob
 
 Also at the event, our team achieved the **2nd Runner-Up** position in the Idea Presentation category.
 
+Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
+
+## Team Members
+
+1. Md. Salman Khan
+2. Mst. Fatematuzzohura Sathi ; https://github.com/FatematuzzohuraSathi
+
 
 ## Project Overview & Working Macanism
 
