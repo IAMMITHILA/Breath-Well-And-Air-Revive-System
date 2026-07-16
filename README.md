@@ -82,6 +82,6 @@ The system continuously monitors **air quality, temperature, and humidity** usin
 
 The harmful substances captured during the purification process are **collected** by the system. These collected materials are then processed through a **waste-to-energy system**, where they are converted into **usable energy**.
 
-## Step 5: Solar Power Integration
+### Step 5: Solar Power Integration
 
 The system is powered by **solar panels**, providing a **renewable source of energy**. Excess energy generated during the day is stored in the **energy storage system**, ensuring continuous operation even when sunlight is unavailable.
