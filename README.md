@@ -50,3 +50,8 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 **Solar Panels:** Powers the system with renewable energy.
 
 **Energy Storage:** Ensures continuous operation through stored solar energy
+
+
+## Working Mechanism:
+
+
