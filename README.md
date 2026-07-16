@@ -13,17 +13,20 @@ Our team **BU Binary Eidth** consisted of 3 members. My fellow team members are:
 2. Mst. Fatematuzzohura Sathi ; https://github.com/FatematuzzohuraSathi
 
 
-## Project Overview & Features
+## Project Overview:
 
-The **Breath Well and Air Revive System** is an Conceptual **advanced outdoor device** designed to **absorb polluted air,  purify it using state of the art filtration techniques,  control temperature  and  integrate with a  comprehensive Air Condition Monitoring System**. Positioned on **electric posts, lamp posts and high towers and powered by solar energy**. It offers a sustainable solution for enhancing air quality and comfort in smart cities.
+**Breath Well and Air Revive System** is a conceptual **advanced outdoor air purification device** designed to improve air quality in smart cities. It absorbs polluted air, purifies it using **state-of-the-art filtration technology** and helps regulate the surrounding temperature. The system also integrates a **comprehensive Air Condition Monitoring System** for real-time environmental monitoring. It designed to be installed on **electric poles, lamp posts and high towers**, it is powered by **solar energy**. It offers a sustainable solution for enhancing air quality and comfort in smart cities.
 
-Air Purification:
+## Features:
+
+### Air Purification:
 
 Advanced Filtration: Uses HEPA, activated carbon, and electrostatic filters.
 
-Pollution Capture: Targets air from high-traffic and industrial zones.
+### Pollution Capture: 
+Targets air from high-traffic and industrial zones.
 
-Temperature Control:
+### Temperature Control:
 
 Smart Cooling: Energy-efficient HVAC with adaptive regulation.
 
